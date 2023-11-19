@@ -11,8 +11,9 @@ Prism Roleplay is a FiveM server community.
 [![website](https://img.shields.io/badge/website-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prismroleplay.com/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/PrismRoleplay)
 [![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@prism_roleplay)
-[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com//@PrismRoleplayFiveM)## Color Reference
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com//@PrismRoleplayFiveM)
 
+## Color Reference
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
